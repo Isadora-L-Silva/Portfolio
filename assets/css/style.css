@@ -12063,7 +12063,7 @@ pre .code {
   width: 100%;
   height: 100%;
   background-image: -webkit-linear-gradient(bottom, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
-  background-image: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
+  background-image: linear-gradient(to top, #fff 0%, rgba(0, 13, 159, 0.35) 99%, rgba(0, 13, 159, 0.5) 100%);
 }
 
 .header .header-content {
@@ -12168,6 +12168,7 @@ pre .code {
 .about-img-holder .about-img {
   width: 100%;
   margin-bottom: 15px;
+  border-radius: 220px;
 }
 
 .about-caption {
